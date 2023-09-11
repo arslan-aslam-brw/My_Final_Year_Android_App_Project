@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Food Delivery App</string>
+
+    <string-array name="State">
+        <item>Punjab</item>
+        <item>Sindh</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Biryani</item>
+        <item>Dal Rice</item>
+        <item>Samosa</item>
+        <item>veg Roti</item>
+        <item>mix daal rice</item>
+        <item>halwa pori</item>
+        <item>Dal roti</item>
+        <item>veg masala</item>
+        <item>Aloo Paratha</item>
+        <item>chiken</item>
+        <item>Burger</item>
+        <item>French fries</item>
+        <item>Chiken mix</item>
+        <item>Handi chiken</item>
+        <item>Chiken Paneer</item>
+        <item>Sekh kabab</item>
+        <item>Mix sallad</item>
+        <item>Shami kabab</item>
+        <item>chiken dal boil rice</item>
+        <item>Pizza</item>
+        <item>Itlian food</item>
+        <item>Dum Biryani</item>
+        <item>Rumali roti</item>
+        <item>Dal Makhni</item>
+        <item>Samosa</item>
+        <item>Kachori</item>
+        <item>Pizza pratha</item>
+        <item>Shawarma</item>
+        <item>Rice</item>
+        <item>Nagutes</item>
+        <item>Mix Vegetable</item>
+        <item>Muffins</item>
+        <item>DalFry zeeraRice</item>
+        <item>sweet</item>
+        <item>Curry</item>
+        <item>Fish</item>
+        <item>Egg Bhurji</item>
+        <item>Dum chicken</item>
+        <item>Sindhi Chicken Biryni</item>
+    </string-array>
+</resources>
