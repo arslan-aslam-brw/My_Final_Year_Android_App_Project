@@ -42,7 +42,7 @@ After using the application user can successfully logout the application.
 
 ## Installation
 
-Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/simple_ecomrece_app_1/raw/refs/heads/master/assets/App.apk" >Here</a>
+Just Download and Install by Clicking <a href = "https://github.com/arslanaslam5588/My_Final_Year_Android_App_Project/blob/master/Food%20Delivery%20App.apk" >Here</a>
 
 ## Skills
 Java, XMAL, Firebase, Advance Firebase and Basic Programming
