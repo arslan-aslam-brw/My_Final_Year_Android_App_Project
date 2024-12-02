@@ -1,7 +1,8 @@
-### My_Final_Year_Android_App_Project
+#### My Final Year Android App Project
 This is My Final Year Android Project, in This project, I use java Programing Language with Firebase, APIs like Retrofit. This is a online Food Ordering App with Admin Panel, Customer's, and seller different users.
 
-### Functional Requirements:
+
+#### Functional Requirements:
 
 ## 1. Signup:
 User can Sign up by using his Name, Username, Email, Shipping address, Permanent address and password into the application signup interface.
@@ -25,20 +26,12 @@ Delivery Boy will take the order and give order to the customer. On successfully
 ## 7. Logout:
 After using the application user can successfully logout the application.
 
+<br>
 
-<br><br>
-## App Demo & Screenshots (Pagination)
+## Diagrame
+ <img src="https://github.com/arslanaslam5588/my-FINAL-YEAR-Material/blob/master/Materials/Food%20Diagram/usecasePic_final_project.png ">
 
-![App Screenshot](https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/eComrence_scrnshot.png) <br><br>
-
-
-
-<div style="overflow: auto;">
-    <img src="https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/Demo_App.gif" alt="Left Image" style="float: left; margin-right: 20px; width: 380px; "> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/Demo_App.gif" alt="Right Image" style="float: right; margin-left: 20px; width: 380px;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <br><br>
-      <img src="https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/eComrence_scrnshot.png" alt="Left Image" style="float: left; margin-right: 20px; width: 380px; "> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-    <img src="https://github.com/arslanaslam5588/simple_ecomrece_app_1/blob/master/assets/eComrence_scrnshot.png" alt="Right Image" style="float: right; margin-left: 20px; width: 380px;"> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
-</div>
+<br>
 
 ## Installation
 
